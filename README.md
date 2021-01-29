@@ -13,8 +13,17 @@
 
 2.two
 
-#display data as bold#
-*andhra loyola institute of engineering and technology*
+# display data as bold  
 
+this is **bold**
 
-#display data as italic
+# display data as italic
+
+this is *italic*
+
+ 
+ # java code
+
+import numpy
+import pandas
+df=pd.dataFrame({"one":{1,2,3})
