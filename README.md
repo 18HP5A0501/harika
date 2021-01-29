@@ -13,7 +13,7 @@
 
 2.two
 
-#display data as bold
+#display data as bold#
 *andhra loyola institute of engineering and technology*
 
 
