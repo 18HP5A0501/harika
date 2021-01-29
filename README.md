@@ -14,4 +14,7 @@
 2.two
 
 #display data as bold
-**andhra loyola institute of engineering and technology**
+*andhra loyola institute of engineering and technology*
+
+
+#display data as italic
